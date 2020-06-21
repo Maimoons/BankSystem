@@ -45,7 +45,7 @@ Note: every function raises error for relevant incorrect input/output
 
 1. Initialize a new Bank
 
-Example: Bank(&#39;bankName&#39;)
+<pre>Example: Bank(&#39;bankName&#39;)</pre>
 </br> </br>
 
 
@@ -56,7 +56,7 @@ createCustomer(nameOfCustomer, typeOfAccount)
 
 Returns account number of the created customer
 
-Example: account\_number = createCustomer(&#39;John&#39;, &#39;Savings&#39;)
+<pre>Example: account_number = createCustomer(&#39;John&#39;, &#39;Savings&#39;)</pre>
 </br></br>
 
 
@@ -64,7 +64,7 @@ Example: account\_number = createCustomer(&#39;John&#39;, &#39;Savings&#39;)
 
 insertCard(account\_number)
 
-Example: customer = insertCard(accountNumber)
+<pre>Example: customer = insertCard(accountNumber)</pre>
 
 Returns the customer of the card
 </br></br>
@@ -76,7 +76,7 @@ Returns the customer of the card
 
 withdraw(amount)
 
-Example: account.withdraw(10)
+<pre>Example: account.withdraw(10)</pre>
 </br></br>
 
 
@@ -84,13 +84,13 @@ Example: account.withdraw(10)
 
 deposit(amount)
 
-Example: account.deposit(10)
+<pre>Example: account.deposit(10)</pre>
 </br></br>
 
 
 6. Check balance in account
 
-Example: checkBalance()
+<pre>Example: checkBalance()</pre>
 
 Returns the balance in account
 </br></br>
@@ -102,7 +102,7 @@ Returns the balance in account
 
 openSavings(amount)
 
-Example: customer.openSavings(10)
+<pre>Example: customer.openSavings(10)</pre>
 </br></br>
 
 
@@ -110,7 +110,7 @@ Example: customer.openSavings(10)
 
 openSavings(amount)
 
-Example: customer.openCheckings(10)
+<pre>Example: customer.openCheckings(10)</pre>
 </br></br>
 
 
@@ -118,7 +118,7 @@ Example: customer.openCheckings(10)
 
 setPin(pin)
 
-Example: customer.setPin(&#39;1234&#39;)
+<pre>Example: customer.setPin(&#39;1234&#39;)</pre>
 </br></br>
 
 
@@ -126,7 +126,7 @@ Example: customer.setPin(&#39;1234&#39;)
 
 enterPin(pin)
 
-Example: customer.enterPin(&#39;1234&#39;)
+<pre>Example: customer.enterPin(&#39;1234&#39;)</pre>
 </br></br>
 
 
@@ -134,7 +134,7 @@ Example: customer.enterPin(&#39;1234&#39;)
 
 selectAccount(accountType)
 
-Example: account = customer.selectAccount(&#39;Savings&#39;)
+<pre>Example: account = customer.selectAccount(&#39;Savings&#39;)</pre>
 
 Returns the relevant account
 </br></br>
@@ -144,4 +144,4 @@ Returns the relevant account
 
 transfer(fromType,toType,amount)
 
-Example: customer.transfer(&#39;Savings&#39;,&#39;Checkings&#39;,10)
+<pre>Example: customer.transfer(&#39;Savings&#39;,&#39;Checkings&#39;,10)</pre>
