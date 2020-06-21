@@ -65,7 +65,7 @@ Returns account number of the created customer
 
 insertCard(account\_number)
 
-<pre>Example: customer = insertCard(accountNumber)</pre>
+<pre>Example: customer = bank.insertCard(accountNumber)</pre>
 
 Returns the customer of the card
 </br></br>
@@ -91,7 +91,7 @@ deposit(amount)
 
 6. Check balance in account
 
-<pre>Example: checkBalance()</pre>
+<pre>Example: account.checkBalance()</pre>
 
 Returns the balance in account
 </br></br>
