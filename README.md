@@ -16,11 +16,12 @@ Clone Repository from GitHub
 
 The project will consist of:
 
-ATM.py
+ 1. ATM.py
 
-test\_atm.py
+ 2.test\_atm.py
 
 Note: atm\_test.py consists of sample test cases that can be run
+</br></br>
 
 >python3 test\_atm.py
 
