@@ -1,16 +1,16 @@
-**README**
+<h1>README</h1>
 
 Bank is a python implementation of a basic Bank System
 
 </br>
 
-**Installation**
+<h2>Installation</h2>
 
 Python 3
 
 </br>
 
-**Usage**
+<h2>Usage</h2>
 
 Clone Repository from GitHub
 
@@ -36,13 +36,13 @@ To run custom test cases:
 </br>
 
 
-**Functions**
+<h2>Functions</h2>
 
 Note: every function raises error for relevant incorrect input/output
 </br>
 
 
-**Bank Functions**
+<h3>Bank Functions</h3>
 
 1. Initialize a new Bank
 
@@ -71,7 +71,7 @@ Returns the customer of the card
 </br></br>
 
 
-**Account Functions**
+<h3>Account Functions</h3>
 
 4. Withdraw amount from account
 
@@ -97,7 +97,7 @@ Returns the balance in account
 </br></br>
 
 
-**Customer Functions**
+<h3>Customer Functions</h3>
 
 7. Open a Savings account. Optional amount can be deposited
 
