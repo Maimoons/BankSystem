@@ -18,9 +18,9 @@ The project will consist of:
 
  1. ATM.py
 
- 2.test\_atm.py
+ 2. test\_atm.py
 
-Note: atm\_test.py consists of sample test cases that can be run
+Note: test\_atm.py consists of sample test cases that can be run
 </br></br>
 
 >python3 test\_atm.py
