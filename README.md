@@ -1,6 +1,6 @@
 <h1>README</h1>
 
-Bank is a python implementation of a basic Bank System
+Bank is a python implementation of a basic Bank System including mostly a controller for an ATM functionality 
 
 </br>
 
