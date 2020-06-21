@@ -46,7 +46,7 @@ Note: every function raises error for relevant incorrect input/output
 
 1. Initialize a new Bank
 
-<pre>Example: Bank(&#39;bankName&#39;)</pre>
+<pre>Example: bank = Bank(&#39;bankName&#39;)</pre>
 </br> </br>
 
 
@@ -57,7 +57,7 @@ createCustomer(nameOfCustomer, typeOfAccount)
 
 Returns account number of the created customer
 
-<pre>Example: account_number = createCustomer(&#39;John&#39;, &#39;Savings&#39;)</pre>
+<pre>Example: account_number = bank.createCustomer(&#39;John&#39;, &#39;Savings&#39;)</pre>
 </br></br>
 
 
